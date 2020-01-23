@@ -1,0 +1,30 @@
+PWD c:\Users\eddie.englund\Desktop\code\latex
+INPUT C:\Users\eddie.englund\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\eddie.englund\Desktop\code\latex\reading_response_prompt_Eddie_englund.tex
+OUTPUT c:\Users\eddie.englund\Desktop\code\latex\reading_response_prompt_Eddie_englund.log
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT c:\Users\eddie.englund\Desktop\code\latex\reading_response_prompt_Eddie_englund.aux
+INPUT c:\Users\eddie.englund\Desktop\code\latex\reading_response_prompt_Eddie_englund.aux
+OUTPUT c:\Users\eddie.englund\Desktop\code\latex\reading_response_prompt_Eddie_englund.aux
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmti12.tfm
+OUTPUT c:\Users\eddie.englund\Desktop\code\latex\reading_response_prompt_Eddie_englund.pdf
+INPUT C:\Users\eddie.englund\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT c:\Users\eddie.englund\Desktop\code\latex\reading_response_prompt_Eddie_englund.aux
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti12.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti12.pfb
