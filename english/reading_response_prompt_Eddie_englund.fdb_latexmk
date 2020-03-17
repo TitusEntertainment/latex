@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1579996386 "/home/titus/writing/school-related/latex/reading_response_prompt_Eddie_englund.tex" "/home/titus/writing/school-related/latex/reading_response_prompt_Eddie_englund.pdf" "reading_response_prompt_Eddie_englund" 1579996386
-  "/home/titus/writing/school-related/latex/reading_response_prompt_Eddie_englund.aux" 1579996386 200 e75bfe3086cc8b03d8fd99d94c4e20c5 ""
-  "/home/titus/writing/school-related/latex/reading_response_prompt_Eddie_englund.tex" 1579996386 3609 1f9b097dc4f6590a2f7b28d15bdbd843 ""
+["pdflatex"] 1584443713 "/home/titus/writing/school-related/latex/english/reading_response_prompt_Eddie_englund.tex" "/home/titus/writing/school-related/latex/english/reading_response_prompt_Eddie_englund.pdf" "reading_response_prompt_Eddie_englund" 1584443713
+  "/home/titus/writing/school-related/latex/english/reading_response_prompt_Eddie_englund.aux" 1584443713 295 96125dda0957946204200c830bdd3d16 ""
+  "/home/titus/writing/school-related/latex/english/reading_response_prompt_Eddie_englund.tex" 1584443711 4460 3a99ef995641e4ff14091ba604862e01 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1572595918 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1572595918 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1572595918 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -16,13 +16,13 @@
   "/usr/share/texmf-dist/tex/latex/base/article.cls" 1572595918 19931 9ab70b303cca263e0120c205e98dee99 ""
   "/usr/share/texmf-dist/tex/latex/base/size12.clo" 1572595918 8406 9c942fcfb21ffa8e69675415d5a2896e ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1572595918 33301 a3134070eacafb10b1f371612ce2650d ""
-  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1579995039 461876 d6de1b098f10efa7b17f1b0c1f1ccb3d ""
-  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1579995030 8044939 c1fe779b06d1a12450a1057af8603c58 ""
-  "reading_response_prompt_Eddie_englund.aux" 1579996386 200 e75bfe3086cc8b03d8fd99d94c4e20c5 "pdflatex"
-  "reading_response_prompt_Eddie_englund.tex" 1579996386 3609 1f9b097dc4f6590a2f7b28d15bdbd843 ""
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1581068570 461876 d6de1b098f10efa7b17f1b0c1f1ccb3d ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1581068569 8044938 962f52af9ed57d390425637a56276d24 ""
+  "reading_response_prompt_Eddie_englund.aux" 1584443713 295 96125dda0957946204200c830bdd3d16 "pdflatex"
+  "reading_response_prompt_Eddie_englund.tex" 1584443711 4460 3a99ef995641e4ff14091ba604862e01 ""
   (generated)
-  "/home/titus/writing/school-related/latex/reading_response_prompt_Eddie_englund.pdf"
-  "reading_response_prompt_Eddie_englund.pdf"
-  "reading_response_prompt_Eddie_englund.log"
+  "/home/titus/writing/school-related/latex/english/reading_response_prompt_Eddie_englund.pdf"
   "reading_response_prompt_Eddie_englund.aux"
-  "/home/titus/writing/school-related/latex/reading_response_prompt_Eddie_englund.log"
+  "reading_response_prompt_Eddie_englund.pdf"
+  "/home/titus/writing/school-related/latex/english/reading_response_prompt_Eddie_englund.log"
+  "reading_response_prompt_Eddie_englund.log"
