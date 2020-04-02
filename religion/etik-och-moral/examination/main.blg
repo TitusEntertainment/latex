@@ -1,0 +1,16 @@
+[0] Config.pm:304> INFO - This is Biber 2.13
+[0] Config.pm:307> INFO - Logfile is 'main.blg'
+[19] biber:315> INFO - === tis mar 24, 2020, 13:05:44
+[29] Biber.pm:375> INFO - Reading 'main.bcf'
+[88] Biber.pm:905> INFO - Found 4 citekeys in bib section 0
+[101] Biber.pm:4196> INFO - Processing section 0
+[102] Utils.pm:75> INFO - Globbing data source 'sources.bib'
+[102] Utils.pm:91> INFO - Globbed data source 'sources.bib' to sources.bib
+[109] Biber.pm:4373> INFO - Looking for bibtex format file 'sources.bib' for section 0
+[110] bibtex.pm:1462> INFO - LaTeX decoding ...
+[113] bibtex.pm:1281> INFO - Found BibTeX data source 'sources.bib'
+[135] UCollate.pm:68> INFO - Overriding locale 'sv-SE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[135] UCollate.pm:68> INFO - Overriding locale 'sv-SE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[135] Biber.pm:4024> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'sv-SE'
+[142] bbl.pm:648> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[143] bbl.pm:751> INFO - Output to main.bbl

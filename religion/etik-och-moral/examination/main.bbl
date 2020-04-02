@@ -1,0 +1,132 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ynt/global//global/global}
+    \entry{Forskning&Framsteg}{online}{}
+      \name{author}{1}{}{%
+        {{hash=129393b3cdc9777723f2d49f9deb74d0}{%
+           family={Höjer},
+           familyi={H\bibinitperiod},
+           given={Henrik},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{129393b3cdc9777723f2d49f9deb74d0}
+      \strng{fullhash}{129393b3cdc9777723f2d49f9deb74d0}
+      \strng{bibnamehash}{129393b3cdc9777723f2d49f9deb74d0}
+      \strng{authorbibnamehash}{129393b3cdc9777723f2d49f9deb74d0}
+      \strng{authornamehash}{129393b3cdc9777723f2d49f9deb74d0}
+      \strng{authorfullhash}{129393b3cdc9777723f2d49f9deb74d0}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(läst den: 24/03/2020)}
+      \field{title}{Därför ökar de kriminella gängens makt}
+      \verb{urlraw}
+      \verb https://fof.se/tidning/2015/5/artikel/darfor-okar-de-kriminella-gangens-makt
+      \endverb
+      \verb{url}
+      \verb https://fof.se/tidning/2015/5/artikel/darfor-okar-de-kriminella-gangens-makt
+      \endverb
+    \endentry
+    \entry{Expressen}{online}{}
+      \name{author}{1}{}{%
+        {{hash=bbe2e5e0ec6fd55df7b37829181dd0cd}{%
+           family={Israelsson},
+           familyi={I\bibinitperiod},
+           given={Linette},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{bbe2e5e0ec6fd55df7b37829181dd0cd}
+      \strng{fullhash}{bbe2e5e0ec6fd55df7b37829181dd0cd}
+      \strng{bibnamehash}{bbe2e5e0ec6fd55df7b37829181dd0cd}
+      \strng{authorbibnamehash}{bbe2e5e0ec6fd55df7b37829181dd0cd}
+      \strng{authornamehash}{bbe2e5e0ec6fd55df7b37829181dd0cd}
+      \strng{authorfullhash}{bbe2e5e0ec6fd55df7b37829181dd0cd}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(läst den: 24/03/2020)}
+      \field{title}{Forskaren: Sprängdåden i Sverige saknar motstycke}
+      \verb{urlraw}
+      \verb https://www.expressen.se/kvallsposten/forskaren-sprangdaden-i-sverige-saknar-motstycke/
+      \endverb
+      \verb{url}
+      \verb https://www.expressen.se/kvallsposten/forskaren-sprangdaden-i-sverige-saknar-motstycke/
+      \endverb
+    \endentry
+    \entry{Guardian}{online}{}
+      \name{author}{1}{}{%
+        {{hash=5474c178b373c5ec65c8f976791becac}{%
+           family={Ratcliffe},
+           familyi={R\bibinitperiod},
+           given={Rebecca},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{5474c178b373c5ec65c8f976791becac}
+      \strng{fullhash}{5474c178b373c5ec65c8f976791becac}
+      \strng{bibnamehash}{5474c178b373c5ec65c8f976791becac}
+      \strng{authorbibnamehash}{5474c178b373c5ec65c8f976791becac}
+      \strng{authornamehash}{5474c178b373c5ec65c8f976791becac}
+      \strng{authorfullhash}{5474c178b373c5ec65c8f976791becac}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(Läst den: 11/03/2020)}
+      \field{title}{More than 70 million people now fleeing conflict and oppression worldwide}
+      \verb{urlraw}
+      \verb https://www.theguardian.com/global-development/2019/jun/19/more-than-70-million-people-fleeing-conflict-oppression-worldwide
+      \endverb
+      \verb{url}
+      \verb https://www.theguardian.com/global-development/2019/jun/19/more-than-70-million-people-fleeing-conflict-oppression-worldwide
+      \endverb
+      \keyw{The Guardigan,fleeing,opression,worldwide}
+    \endentry
+    \entry{Wikipedia}{online}{}
+      \name{author}{1}{}{%
+        {{hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(läst den: 24/03/2020)}
+      \field{title}{Bosnienkrisen}
+      \verb{urlraw}
+      \verb https://sv.wikipedia.org/wiki/Bosnienkrisen
+      \endverb
+      \verb{url}
+      \verb https://sv.wikipedia.org/wiki/Bosnienkrisen
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
