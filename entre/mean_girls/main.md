@@ -20,6 +20,8 @@ Hon är ganska snäll men endast för att få dom att stanna kvar. Annars så ä
 
 - Vad använder Regina för härskartekniker. Förklara och motivera?
 
+Regina är duktig på att använda sig av olika typer av härskar tekniker för att få makten över sina vänner. Hon använder sig kanska mycket av tekiner som: förlöjligande, undanhållande av information, skuld och skam, 
+
 - Hur gör Regina för att behålla sin maktposition på skolan? Vilka försvarsmekanismer i konflikthantering använder sig Regina resp Cady sig utav?
 
 - Ser du några andra härskartekniker som används? Vilken/vilka och i vilka scener?
